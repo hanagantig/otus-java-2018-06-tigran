@@ -1,7 +1,6 @@
 package ru.otus.l021;
 
 import java.lang.management.ManagementFactory;
-import java.util.*;
 import java.util.function.Supplier;
 
 
